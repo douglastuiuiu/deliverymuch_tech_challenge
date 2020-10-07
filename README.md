@@ -1,3 +1,7 @@
-npm install
+Requisitos: NodeJs instalado
 
-node index.js
+Para rodar o projeto, baixe-o e execute os comandos abaixo.
+
+- npm instal
+
+- node index.js
